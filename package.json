@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/omega8015/learn-noda/issues"
   },
-  "homepage": "https://github.com/omega8015/learn-noda#readme"
+  "homepage": "https://github.com/omega8015/learn-noda#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.3"
+  }
 }
